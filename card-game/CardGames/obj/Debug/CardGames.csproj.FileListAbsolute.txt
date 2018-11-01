@@ -1,0 +1,2 @@
+C:\Users\Батя\Desktop\Новая папка\CardGame\CardGames\obj\Debug\CardGames.csprojAssemblyReference.cache
+C:\Users\Батя\Desktop\Новая папка\CardGame\CardGames\obj\Debug\CardGames.csproj.CoreCompileInputs.cache
